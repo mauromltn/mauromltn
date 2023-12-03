@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub profile 👨🏻‍💻!**
 
-I'm a passionate software engineering student who is learning front-end development.
+I'm a passionate student of software development, dedicated to researching and studying to acquire skills in the field. My goal is to explore and create innovative solutions. Currently, as I'm still completing my academic journey and I don't have much practical experience, however I like to apply what I learn. I am ready to collaborate and apply my evolving skills.
 
 ## Tools:
 ![My Skills](https://skillicons.dev/icons?i=vscode,codepen,html,py,git,github)
@@ -10,13 +10,14 @@ I'm a passionate software engineering student who is learning front-end developm
 ## I'm currently:
 **Working on:**
 - Creating my own website.
+- Improving my knowledge of Python.
 
 **Learning:**
-- ![My Skills](https://skillicons.dev/icons?i=css,js,react)
+- ![My Skills](https://skillicons.dev/icons?i=swift,css,js,react,mysql,php&perline=3)
 
 ## Contact me:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mauromontane/)
-[![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/mauromltn)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mauro-montane)
 
 ---
 
