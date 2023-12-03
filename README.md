@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Mauro 👋🏻
 
-<!--
-**mauromltn/mauromltn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub profile 👨🏻‍💻!**
 
-Here are some ideas to get you started:
+I'm a passionate software engineering student who is learning front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools:
+![My Skills](https://skillicons.dev/icons?i=vscode,codepen,html,py,git,github)
+
+### I'm currently:
+**Working to:**
+- Create my own website.
+
+**Learning:**
+- ![My Skills](https://skillicons.dev/icons?i=css,js,react)
+
+### Contact me:
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mauromontane/)
+[![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/mauromltn)
+
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mauromltn&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/mauromltn/github-readme-stats)
