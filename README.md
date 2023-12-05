@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub profile 👨🏻‍💻!**
 
-I'm a passionate student of software development, dedicated to researching and studying to acquire skills in the field. My goal is to explore and create innovative solutions. Currently, as I'm still completing my academic journey and I don't have much practical experience, however I like to apply what I learn. I am ready to collaborate and apply my evolving skills.
+I'm a passionate student of software development, dedicated to researching and studying to acquire skills in the field. My goal is to explore and create innovative solutions. Currently, as I'm still completing my academic journey I don't have much practical experience, however I like to apply what I learn. I am ready to collaborate and apply my evolving skills.
 
 ## Tools:
 ![My Skills](https://skillicons.dev/icons?i=vscode,codepen,html,py,git,github)
@@ -17,7 +17,8 @@ I'm a passionate student of software development, dedicated to researching and s
 
 ## Contact me:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mauromontane/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/mauro-montane)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauro-montane)
+[![My Skills](https://skillicons.dev/icons?i=email)](https://www.linkedin.com/in/mauro-montane)
 
 ---
 
