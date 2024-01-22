@@ -16,8 +16,3 @@ I'm a passionate student of software development, dedicated to researching and s
 ## 📫 Contact
 
 You can contact me on [Instagram](https://www.instagram.com/mauromontane/) or [LinkedIn](https://www.linkedin.com/in/mauro-montane).
-
-## 🚀 Support
-If you want to support me, clik this button. Thank you :)
-
-<span><a href="https://www.buymeacoffee.com/mauromltn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mauromltn" /></a></span><br><br>
