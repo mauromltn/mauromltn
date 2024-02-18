@@ -3,7 +3,7 @@
 I'm a passionate student of software development, dedicated to researching and studying to acquire skills in the field. My goal is to explore and create innovative solutions. Currently, as I'm still completing my academic journey I don't have much practical experience, however I like to apply what I learn. I am ready to collaborate and apply my evolving skills.
 
 ### Tools:
-![My Skills](https://skillicons.dev/icons?i=github,git,vscode,codepen,py,html,css&perline=4)
+![My Skills](https://skillicons.dev/icons?i=github,git,vscode,codepen,py,html,css)
 
 ## 🔭 Current Endeavors
 **Working on:**
