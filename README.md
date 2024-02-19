@@ -11,7 +11,7 @@ I'm a passionate student of software development, dedicated to researching and s
 - Improving my knowledge of web development.
 
 **Learning:**
-- ![My Skills](https://skillicons.dev/icons?i=swift,js,react,mysql,php)
+- ![My Skills](https://skillicons.dev/icons?i=swift,tailwind,js,react)
 
 ## 📫 Contact
 
