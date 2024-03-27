@@ -12,6 +12,7 @@ I'm a passionate student of software development, dedicated to creating websites
 ## 🔭 Current Endeavors
 - Improving my knowledge of web development.
 - Building projects.
+- Learning UI/UX Design.
 
 ## 📫 Contact
 You can contact me on [Instagram](https://www.instagram.com/mauromontane/), [LinkedIn](https://www.linkedin.com/in/mauro-montane) or by [Email](mailto:dev.montane@gmail.com).
