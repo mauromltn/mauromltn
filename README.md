@@ -7,6 +7,7 @@ I'm a passionate student of software development, dedicated to creating websites
 
 ## 📖 Project Repositories
 - [Portfolio Website](https://github.com/mauromltn/portfolio-website)
+- [Sign-Up Page](https://github.com/mauromltn/ToDoList/SignUp-Page)
 - [To-Do List App](https://github.com/mauromltn/ToDoList)
 
 ## 🔭 Current Endeavors
