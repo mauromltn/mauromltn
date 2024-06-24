@@ -12,8 +12,9 @@ I'm a passionate student of software development, dedicated to creating websites
 
 ## 🔭 Current Endeavors
 - Front-End Engineer Career.
+- Front-End App with React.
 - UI/UX Design.
-- Building projects.
+- Projects.
 
 ## 📫 Contact
 You can contact me on [Instagram](https://www.instagram.com/mauromontane/), [LinkedIn](https://www.linkedin.com/in/mauro-montane) or by [Email](mailto:dev.montane@gmail.com).
