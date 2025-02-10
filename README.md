@@ -4,7 +4,7 @@ I'm a passionate student of software development, dedicated to creating websites
 If you'd like to know more about me, feel free to visit my [website](https://mauromontane.me).
 
 ## 🔨 Tools:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,docker,swift,figma,vscode,vercel)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,swift,figma,vscode,vercel)
 
 ## 📖 Project Repositories
 - [Portfolio Website](https://github.com/mauromltn/portfolio-website)
