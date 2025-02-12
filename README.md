@@ -8,8 +8,8 @@ If you'd like to know more about me, feel free to visit my [website](https://mau
 
 ## 📖 Project Repositories
 - [Portfolio Website](https://github.com/mauromltn/portfolio-website)
+- [Travel Agency](https://github.com/mauromltn/Travel-Agency)
 - [Sign-Up Page](https://github.com/mauromltn/SignUp-Page)
-- [Travel Agency](https://github.com/mauromltn/agenv)
 - [To-Do List App](https://github.com/mauromltn/ToDoList)
 
 ## 🔭 Current Endeavors
