@@ -4,13 +4,13 @@ I'm a passionate student of software development, dedicated to creating websites
 If you'd like to know more about me, feel free to visit my [website](https://mauromontane.me).
 
 ## 🔨 Tools:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,swift,figma,vscode,vercel)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,swift,react,vercel,next,vite,figma&perline=5)
 
 ## 📖 Project Repositories
-- [Portfolio Website](https://github.com/mauromltn/portfolio-website)
+- [Portfolio](https://github.com/mauromltn/my-portfolio)
+- [Cinemood](https://github.com/mauromltn/cine-mood)
 - [Travel Agency](https://github.com/mauromltn/Travel-Agency)
-- [Sign-Up Page](https://github.com/mauromltn/SignUp-Page)
-- [To-Do List App](https://github.com/mauromltn/ToDoList)
+- [Updated Portfolio](https://github.com/mauromltn/sec-portfolio)
 
 ## 🔭 Current Endeavors
 - iOS Developer Career.
