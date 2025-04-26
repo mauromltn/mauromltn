@@ -4,20 +4,20 @@ I'm a passionate student of software development, dedicated to creating websites
 If you'd like to know more about me, feel free to visit my [website](https://mauromontane.me).
 
 ## 🔨 Tools:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,swift,react,vercel,next,vite,figma&perline=5)
+![My Skills](https://skillicons.dev/icons?i=react,next,mysql,vercel,figma,html,css,js,swift&perline=5)
 
-## 📖 Project Repositories
-- [Portfolio](https://github.com/mauromltn/my-portfolio)
-- [Cinemood](https://github.com/mauromltn/cine-mood)
-- [Travel Agency](https://github.com/mauromltn/Travel-Agency)
-- [Updated Portfolio](https://github.com/mauromltn/sec-portfolio)
+## 📖 Projects
+| Repositories                                                | Websites                                |
+| ----------------------------------------------------------- | --------------------------------------- |
+| [Portfolio](https://github.com/mauromltn/my-portfolio)      | [mauromontane](https://mauromontane.me) |
+| [Cinemood](https://github.com/mauromltn/cine-mood)          | soon                                    |
+| [Travel Agency](https://github.com/mauromltn/Travel-Agency) | [trasvelo](https://trasvelo.vercel.app) |
+
 
 ## 🔭 Current Endeavors
-- iOS Developer Career.
 - Front-End Engineer Career.
 - Front-End App with React.
-- UI/UX Design.
-- Projects.
+- iOS Developer Career.
 
 ## 📫 Contact
 You can contact me on [Instagram](https://www.instagram.com/mauromontane/), [LinkedIn](https://www.linkedin.com/in/mauro-montane) or by [Email](mailto:dev.montane@gmail.com).
