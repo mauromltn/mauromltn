@@ -10,7 +10,7 @@ If you'd like to know more about me, feel free to visit my [website](https://mau
 | Repositories                                                | Websites                                |
 | ----------------------------------------------------------- | --------------------------------------- |
 | [Portfolio](https://github.com/mauromltn/my-portfolio)      | [mauromontane](https://mauromontane.me) |
-| [Cinemood](https://github.com/mauromltn/cine-mood)          | soon                                    |
+| [Cinemood](https://github.com/mauromltn/cine-mood)          | [cinemood](https://cinemood.it)         |
 | [Travel Agency](https://github.com/mauromltn/Travel-Agency) | [trasvelo](https://trasvelo.vercel.app) |
 
 
