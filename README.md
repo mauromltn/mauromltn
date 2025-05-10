@@ -7,11 +7,11 @@ If you'd like to know more about me, feel free to visit my [website](https://mau
 ![My Skills](https://skillicons.dev/icons?i=react,next,mysql,vercel,figma,html,css,js,swift&perline=5)
 
 ## 📖 Projects
-| Repositories                                                | Websites                                |
-| ----------------------------------------------------------- | --------------------------------------- |
-| [Portfolio](https://github.com/mauromltn/my-portfolio)      | [mauromontane](https://mauromontane.me) |
-| [Cinemood](https://github.com/mauromltn/cine-mood)          | [cinemood](https://cinemood.it)         |
-| [Travel Agency](https://github.com/mauromltn/Travel-Agency) | [trasvelo](https://trasvelo.vercel.app) |
+| Repositories                                                | Websites                                       |
+| ----------------------------------------------------------- | ---------------------------------------------- |
+| [Portfolio](https://github.com/mauromltn/portfolio)         | [mauromontane.tech](https://mauromontane.tech) |
+| [Cinemood](https://github.com/mauromltn/cine-mood)          | [cinemood](https://cinemood.it)                |
+| [Travel Agency](https://github.com/mauromltn/Travel-Agency) | [trasvelo](https://trasvelo.vercel.app)        |
 
 
 ## 🔭 Current Endeavors
