@@ -1,22 +1,23 @@
 # Hi there, I'm Mauro 👋🏻
 
 I'm a passionate student of software development, dedicated to creating websites and iOS applications. While I'm still completing my academic journey, I am actively learning and expanding my skills through projects. Currently, I am following the [Front-End Engineer](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) and [iOS Developer](https://www.codecademy.com/learn/paths/ios-developer) career paths on Codecademy to further enhance my expertise in both web and iOS development.
-If you'd like to know more about me, feel free to visit my [website](https://mauromontane.me).
+If you'd like to know more about me, feel free to visit my [website](https://mauromontane.tech).
 
 ## 🔨 Tools:
-![My Skills](https://skillicons.dev/icons?i=react,next,mysql,vercel,figma,html,css,js,swift&perline=5)
+![My Skills](https://skillicons.dev/icons?i=react,tailwind,next,mysql,vercel,figma,html,css,js,swift&perline=5)
 
 ## 📖 Projects
 | Repositories                                                | Websites                                       |
 | ----------------------------------------------------------- | ---------------------------------------------- |
 | [Portfolio](https://github.com/mauromltn/portfolio)         | [mauromontane.tech](https://mauromontane.tech) |
 | [Cinemood](https://github.com/mauromltn/cine-mood)          | [cinemood](https://cinemood.it)                |
+| [Planix](https://github.com/mauromltn/planix)               | [planix](https://toplanix.vercel.app)          |
 | [Travel Agency](https://github.com/mauromltn/Travel-Agency) | [trasvelo](https://trasvelo.vercel.app)        |
 
 
 ## 🔭 Current Endeavors
 - Front-End Engineer Career.
-- Front-End App with React.
+- Learn React.
 - iOS Developer Career.
 
 ## 📫 Contact
