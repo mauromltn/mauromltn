@@ -1,6 +1,6 @@
 # Hi there, I'm Mauro 👋🏻
 
-I'm a passionate student of software development, dedicated to creating websites and iOS applications. While I'm still completing my academic journey, I am actively learning and expanding my skills through projects. Currently, I am following the [Front-End Engineer](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) and [iOS Developer](https://www.codecademy.com/learn/paths/ios-developer) career paths on Codecademy to further enhance my expertise in both web and iOS development.
+I'm a passionate software developer focused on building modern web experiences. After completing my studies in computer science, I'm now sharpening my skills through real-world projects and by following Scrimba courses. I’m currently working with **Next.js**, **TypeScript**, and **TailwindCSS**, building tools like Cinemood and CompilaDoc.
 If you'd like to know more about me, feel free to visit my [website](https://mauromontane.tech).
 
 ## 🔨 Tools:
@@ -9,6 +9,7 @@ If you'd like to know more about me, feel free to visit my [website](https://mau
 ## 📖 Projects
 | Repositories                                                | Websites                                       |
 | ----------------------------------------------------------- | ---------------------------------------------- |
+| [CompilaDoc](https://github.com/mauromltn/compiladoc-public)| Coming soon...                                 |
 | [Portfolio](https://github.com/mauromltn/portfolio)         | [mauromontane.tech](https://mauromontane.tech) |
 | [Cinemood](https://github.com/mauromltn/cine-mood)          | [cinemood](https://cinemood.it)                |
 | [Planix](https://github.com/mauromltn/planix)               | [planix](https://toplanix.vercel.app)          |
