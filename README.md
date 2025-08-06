@@ -9,7 +9,7 @@ If you'd like to know more about me, feel free to visit my [website](https://mau
 ## 📖 Projects
 | Repositories                                                | Websites                                       |
 | ----------------------------------------------------------- | ---------------------------------------------- |
-| [CompilaDoc](https://github.com/mauromltn/compiladoc-public)| Coming soon...                                 |
+| [Pamirò](https://github.com/mauromltn/pamiro)               | Coming soon...                                 |
 | [Portfolio](https://github.com/mauromltn/portfolio)         | [mauromontane.tech](https://mauromontane.tech) |
 | [Cinemood](https://github.com/mauromltn/cine-mood)          | [cinemood](https://cinemood.it)                |
 | [Planix](https://github.com/mauromltn/planix)               | [planix](https://toplanix.vercel.app)          |
@@ -17,9 +17,8 @@ If you'd like to know more about me, feel free to visit my [website](https://mau
 
 
 ## 🔭 Current Endeavors
-- Front-End Engineer Career.
-- Learn React.
-- iOS Developer Career.
+- Learn Full-Stack Development.
+- Learn iOS Development.
 
 ## 📫 Contact
 You can contact me on [Instagram](https://www.instagram.com/mauromontane/), [LinkedIn](https://www.linkedin.com/in/mauro-montane) or by [Email](mailto:dev.montane@gmail.com).
