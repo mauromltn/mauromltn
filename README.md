@@ -1,5 +1,5 @@
 # Hi, I'm Mauro 👋🏻
 
-A software developer focused on modern web experiences, currently building with Next.js, TypeScript, and TailwindCSS.
+A designer with a background in web development, focused on modern web experiences. Embracing design and visual storytelling – previously building with Next.js, now working with Framer.
 
 More on [my website](https://mauromontane.tech).
