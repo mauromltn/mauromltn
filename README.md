@@ -1,5 +1,9 @@
 # Hi, I'm Mauro 👋🏻
 
-A freelance web designer with a developer background, focused on brands that take their image seriously. I build controlled and expressive webites, on the best platform for your business: [Framer](https://www.framer.com/).
+Powerlifter and personal trainer in the making, based in Turin, Italy. I still build for the web, the ideas I actually want to use.
 
-More on [my website](https://mauromontane.tech) _(currently unavailable)_.
+Most of what lives here is TypeScript: Next.js and small tools. Most recent is **Ledger**, a local-first income & expense tracker built to make freelance tax season less painful, every number stays in your browser.
+
+**Elsewhere:** [Instagram](https://www.instagram.com/mauromontane/)
+
+> *"Trust in the Lord with all your heart." — Proverbs 3:5-6*
